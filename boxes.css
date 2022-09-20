@@ -1,0 +1,10 @@
+.box {
+    width: 100vw;
+    height: 300px;
+    background-color: rgb(224, 216, 216);
+}
+
+body {
+    height: 100vh;
+}
+
